@@ -5,7 +5,7 @@ Developed Management System warehouse management based on Desktop Application us
 The warehouse management project is a phrase that you can create a store and category and add products,
 you can add customer and supplier data, extract sales and purchase invoices.
 
-#Images
+# Images
 
 ![store](https://user-images.githubusercontent.com/105351178/167851509-0e319f22-8ca7-410a-bd04-c1e42f5976cd.jpg)
 
